@@ -6,6 +6,7 @@
 
 > GetIt
 > Talker
+> Talker
 > Dio
 > Bloc
 > Fierbase
