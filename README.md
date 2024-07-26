@@ -49,7 +49,7 @@
 
 > ![image](https://github.com/user-attachments/assets/5c01e071-b745-4f04-8397-02fb5399eee5)
 
-> **Возможность добавить блюда в избранное**
+> **Возможность добавить блюда в избранное** <br>
 > ![image](https://github.com/user-attachments/assets/839b8979-9915-45d0-93ac-118339f8a832)
 
 > **Возможность поделиться блюдом**
