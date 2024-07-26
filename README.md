@@ -3,20 +3,11 @@
 
 # Используемые технологии и библиотеки:
 <img width="500px" src="https://github.com/user-attachments/assets/2e95b7ad-e982-422c-a6f9-cb14a2840766"> 
-<p>
-    <span>
-    GetIt<br>
-    Talker<br>
-    Dio<br>
-    Bloc<br>
-       Fierbase<br>
-       Hive<br>
-       async/await<br>
-       Http<br>
-       Html<br>
-  </span>
-  <img width="500px" src="https://github.com/user-attachments/assets/2e95b7ad-e982-422c-a6f9-cb14a2840766">
-</p>
+<div align="center">
+  <img src="image1.png" alt="Image 1" width="100" />
+  <img src="image2.png" alt="Image 2" width="100" />
+  <img src="image3.png" alt="Image 3" width="100" />
+</div>
 
 
  GetIt
