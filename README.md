@@ -24,11 +24,17 @@
  
 ## Возможности и функции приложения
 
-> **Поиск блюд по названию / типу / составу** 
+> **Поиск блюд по названию / типу / составу**
+>![image](https://github.com/user-attachments/assets/79068969-331e-44e4-af0c-764b601d6fef)
+ 
 
 > **Поиск по категориям блюд**
+> ![image](https://github.com/user-attachments/assets/35bcadee-beb7-4e13-b584-4d948e030548)
+
 
 > **Список лучших блюд за всё время**
+> ![image](https://github.com/user-attachments/assets/99efd3ac-3b93-418b-a4d9-889ba931370d)
+
 
 > **Отображение при поиске:**
 >> 1. Рейтинга 
@@ -41,10 +47,20 @@
 
 >> 6. Времени приготовления
 
+> ![image](https://github.com/user-attachments/assets/5c01e071-b745-4f04-8397-02fb5399eee5)
+
 > **Возможность добавить блюда в избранное**
-> 
+> ![image](https://github.com/user-attachments/assets/839b8979-9915-45d0-93ac-118339f8a832)
+
 > **Возможность поделиться блюдом**
-> 
+> ![image](https://github.com/user-attachments/assets/eb313594-6d83-450f-bad0-ef7c0509af19)
+
 > **Отображение каллорийности и бжу**
-> 
+> ![image](https://github.com/user-attachments/assets/45d0ce94-aa5b-4e9f-b8bc-9d908a9fb374)
+
+> **Отображение состава**
+> ![image](https://github.com/user-attachments/assets/92f6b8f3-c9e4-4788-b7b9-4bbae105d8df)
+
+
 > **Просмотр пошагового приготовления**
+> ![image](https://github.com/user-attachments/assets/60d825be-5f79-47b5-8807-5651e5fcbcac)
