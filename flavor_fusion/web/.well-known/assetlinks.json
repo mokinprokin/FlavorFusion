@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.example.flavor_fusion",
+                 "sha256_cert_fingerprints": ["57:68:3E:26:C0:D2:21:8B:7F:14:68:2A:39:92:EA:73:72:9C:71:45:FA:7F:2C:E3:7B:96:BA:D3:99:6E:18:43"] }
+  }]
