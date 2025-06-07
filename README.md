@@ -1,19 +1,18 @@
-# Flavor_Fusion
-Мобильное кулинарное приложение по поиску блюд
+# Flavor_Fusion  
+Mobile culinary app for dish discovery  
 
-# Используемые технологии и библиотеки:
-<img width=“500px” src=“https://github.com/user-attachments/assets/2e95b7ad-e982-422c-a6f9-cb14a2840766”><br>
+## Technologies and Libraries Used  
 
-> **GetIt**: Сервис-локатор для управления зависимостями. Облегчает доступ к объектам в приложении.
+> **GetIt** - Service locator for dependency management. Simplifies access to objects in the application.  
 
-> **Talker**: Библиотека для логирования, позволяет удобно отслеживать события и ошибки.
+> **Talker** - Logging library for convenient tracking of events and errors.  
 
-> **Dio**: HTTP-клиент для Flutter и Dart. Поддерживает асинхронные запросы, перехват, обработку ошибок и более.
+> **Dio** - HTTP client for Flutter and Dart. Supports asynchronous requests, interceptors, and error handling.  
 
-> **Bloc**: Архитектурный паттерн для управления состоянием, использует потоки (streams) для разделения логики и пользовательского интерфейса.
+> **Bloc** - Architectural pattern for state management using streams to separate business logic from UI.  
 
-> **Firebase**: Платформа для разработки приложений, предоставляет облачные услуги, такие как аутентификация, база данных, хостинг и аналитика.
-
+> **Firebase** - Development platform providing cloud services (authentication, databases, hosting, analytics).
+> 
 > **Hive**: Local database, fast and easy to use, supports storing data as objects.
  
 > **async/await**: Keywords for working with asynchronous code in Dart, makes it easy to write asynchronous functions.
